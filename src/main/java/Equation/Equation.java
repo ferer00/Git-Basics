@@ -118,5 +118,4 @@ public class Equation {
             System.out.println("x2 = " + x2);
         }
     }
-    // text
 }
